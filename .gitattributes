@@ -1,0 +1,7 @@
+postcard_start.psd filter=lfs diff=lfs merge=lfs -text
+postcard_start_end.psd filter=lfs diff=lfs merge=lfs -text
+postcard_start_tt.psd filter=lfs diff=lfs merge=lfs -text
+postcard_start2.psd filter=lfs diff=lfs merge=lfs -text
+postcard_start2_tt.psd filter=lfs diff=lfs merge=lfs -text
+cb_example.psd filter=lfs diff=lfs merge=lfs -text
+postcard_1.psd filter=lfs diff=lfs merge=lfs -text
